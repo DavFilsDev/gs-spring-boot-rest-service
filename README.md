@@ -82,6 +82,13 @@ This repository will continue to evolve as I learn more about:
 * Service layers
 * Spring Boot best practices
 
+## 👨‍💻 Author
+
+**Fanampinirina Miharisoa David Fils RATIANDRAIBE**
+
+* GitHub: https://github.com/RATIANDRAIBE
+
+
 ---
 
 Based on the official Spring guide:
